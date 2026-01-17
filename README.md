@@ -1,4 +1,5 @@
-# time-dilation-simulator
+# Time Dilation Simulator
+
 Experience time dilation due to gravity (general relativity)
 
 This is a simulator to let you see how proximity to a mass can affect the passage of time.
